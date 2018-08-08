@@ -2,9 +2,9 @@
 
 def no_puppies(numpuppies)
   if numpuppies > 0 
-    puts "No more puppies!"
+    return "No more puppies!"
   elsif numpuppies == 0 
-    puts "Good job, Rachel!"
+    return "Good job, Rachel!"
   end 
 end
 
