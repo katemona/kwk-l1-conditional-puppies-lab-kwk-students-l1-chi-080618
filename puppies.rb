@@ -4,7 +4,7 @@ def no_puppies(num_puppies)
   puppies = 0
   if puppies > 0 
     puts "No more puppies!"
-  elsif puppies == 0 
+  elsif puppies = 0 
     puts "Well done, Rachel!"
   puppies += 1
   end 
