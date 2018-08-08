@@ -3,7 +3,7 @@
 def no_puppies
   while puppies > 0 
     puts "No more puppies!"
-    
+  
   if puppies == 0 
     puts "Well done, Rachel!"
     
