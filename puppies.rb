@@ -48,7 +48,7 @@ def both_animals(puppy,cat)
     return "Good job!"
   elsif cat = 0 
     return "Good job!"
-  else
+  elsif puppy && cat > 1
     return "Get back to your animal goals!"
   end
 end
